@@ -1,6 +1,4 @@
 {
-    "pairs": [
-        "AXC/USDT:USDT"
-    ],
+    "pairs": ["AXC/USDT:USDT"],
     "refresh_period": 60
 }
